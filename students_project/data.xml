@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <name>Robin Aas</name>
+    <website>https://RobinAas22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Kiur Arbeiter</name>
+    <website>https://KiurArbeiter22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Henri Evert</name>
+    <website>https://HenriEvert22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Kristjan Juht</name>
+    <website>https://KristjanJuht22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Kristo Kuurits</name>
+    <website>https://KristoKuurits22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Rasmus Kasemaa</name>
+    <website>https://RasmusKasemaa22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Marken Lemming</name>
+    <website>https://markenindreklemming22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Sten-Patrick Meerits</name>
+    <website>https://Sten-PatrickMeerits22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Artur Müürsepp</name>
+    <website>https://ArturMuursepp22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Marcus Nirgi</name>
+    <website>https://MarcusNirgi22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Jan-Kenyon Nõukas</name>
+    <website>https://jan-kenyonnoukas22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Dorian Tammeveski</name>
+    <website>https://DorianTammeveski22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Karl-Markus Press</name>
+    <website>https://Karl-MarkusPress22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Ingmar Hendrik Rohusaar</name>
+    <website>https://IngmarHendrikRohusaar22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Patrick Sabul</name>
+    <website>https://PatrickSabul22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Simon Sassian</name>
+    <website>https://SimonSassian22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Joonas Kaur Tahk</name>
+    <website>https://JoonasKaurTahk22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Sandra Veskimeister</name>
+    <website>https://SandraVeskimeister22.thkit.ee</website>
+    <gender>female</gender>
+  </student>
+  <student>
+    <name>Markus Väli</name>
+    <website>https://MarkusVali22.thkit.ee</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>Hugo</name>
+    <website>https://www.hugoboss.com</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>joshua </name>
+    <website>https://www.joshua.com</website>
+    <gender>male</gender>
+    <name>joshua </name>
+    <website>www.joshua.com</website>
+    <gender>male</gender>
+  </student>
+  <student>
+    <name>julia</name>
+    <website>https://www.julia.com</website>
+    <gender>female</gender>
+  </student>
+  <student>
+    <name>Ingmar </name>
+    <website>https://www.ingmar.com</website>
+    <gender>male</gender>
+  </student>
+</students>
